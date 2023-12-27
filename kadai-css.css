@@ -1,7 +1,7 @@
-/* kadai-css.css */
 @charset "UTF-8";
 header{
     background-color: #ffcccc;
+    width: 1000px; /*修正*/
 }
 #wrapper {
     display: flex;
@@ -16,4 +16,5 @@ header{
 }
 footer{
     background-color: #ffccff;
+    width: 1000px; /*修正*/
 }
